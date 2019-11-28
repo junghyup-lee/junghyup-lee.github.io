@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Personal Website"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : ""
+subtitle                 : "Last update: Nov. 28, 2019" # site tagline that appears below site title in masthead
+name                     : "Junghyup Lee"
 description              : ""
 url                      : "https://junghyup-lee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -116,7 +116,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: junghyup.lee@yonsei.ac.kr
-    - label: "CVLab@Yonsei"
+    - label: "CVLab@YonseiUniv."
       icon: "fas fa-fw fa-link"
       url: "https://cvlab.yonsei.ac.kr"
     - label: "Twitter"
