@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Personal Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Personal Website"
-description              : "Personal Website"
+name                     : ""
+description              : ""
 url                      : "https://junghyup-lee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,16 +109,16 @@ analytics:
 author:
   name             : "Junghyup Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Joint MS/Ph.D student"
+  bio              : "Joint MS/PhD student in Computer Vision Lab @ Yonsei University."
   location         : "Seoul, South Korea"
   email            : "junghyup.lee@yonsei.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: junghyup.lee@yonsei.ac.kr
-    - label: "Lab"
+      # url: junghyup.lee@yonsei.ac.kr
+    - label: "CVLab@Yonsei"
       icon: "fas fa-fw fa-link"
-      url: "http://cvlab.yonsei.ac.kr"
+      url: "https://cvlab.yonsei.ac.kr"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
