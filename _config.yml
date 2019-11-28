@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Junghyup Lee"
+name                     : "Personal website"
 description              : "Personal website"
 url                      : "https://junghyup-lee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Junghyup Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am good."
+  location         : "Seoul, Korea"
+  email            : "junghyup.lee@yonsei.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
