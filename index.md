@@ -1,7 +1,8 @@
 ---
 layout: single
 author_profile: true
-permanentlink: /_pages/about.md
+<!-- permanentlink: /_pages/about.md -->
 ---
+
 # Welcome
 hi
