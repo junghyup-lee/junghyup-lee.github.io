@@ -11,12 +11,12 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Junghyup Lee's Website"
 title_separator          : "-"
 subtitle                 : "Last update: Nov. 29, 2019" # site tagline that appears below site title in masthead
 name                     : "Junghyup Lee"
@@ -111,11 +111,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Joint MS/PhD student in Computer Vision Lab @ Yonsei University."
   location         : "Seoul, South Korea"
-  email            : "junghyup.lee@yonsei.ac.kr"
+  # email            : "junghyup.lee@yonsei.ac.kr"
   links:
-    - label: "Email"
+    - label: "junghyup.lee@yonsei.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
-      # url: junghyup.lee@yonsei.ac.kr
+      url: mailto:junghyup.lee@yonsei.ac.kr
     - label: "CVLab@YonseiUniv."
       icon: "fas fa-fw fa-link"
       url: "https://cvlab.yonsei.ac.kr"
