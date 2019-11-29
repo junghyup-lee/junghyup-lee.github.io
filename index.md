@@ -1,7 +1,7 @@
 ---
 title : "About"
 layout: single
-author: Junghyup Lee
+author_profile: true
 <!-- permanentlink: /_pages/about.md -->
 ---
 
