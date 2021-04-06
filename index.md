@@ -65,16 +65,16 @@ author_profile: true
 - Poster Presentation (시멘틱 정합을 이용한 비디오 포즈 전파)<br/>
 <span style="color:gray"> *32nd Workshop on Image Processing and Image Understanding (<a href="http://ipiu.or.kr/2020/">IPIU</a>)*, Jan. 2020. </span>
 - Poster Presentation (SFNet: Learning Object-aware Semantic Correspondence) <br/>
-<span style="color:gray"> *Korean Conference on Computer Vision (<a href="https://kcvs.kr/front/conference/2019/">KCCV</a>)*, Jul. 2019. </span> <br/>
+<span style="color:gray"> *Samsung AI Forum (<a href="https://research.samsung.com/2019saif">SAIF</a>)*, Nov. 2019. </span> <br/>
 <span style="color:gray"> *Workshop on Frontiers of Electrical Engineering (FREE) in Yonsei University*, Oct. 2019. </span> <br/>
-<span style="color:gray"> *Samsung AI Forum (<a href="https://research.samsung.com/2019saif">SAIF</a>)*, Nov. 2019. </span>
+<span style="color:gray"> *Korean Conference on Computer Vision (<a href="https://kcvs.kr/front/conference/2019/">KCCV</a>)*, Jul. 2019. </span>
 
 ## Teaching Experience
 - Teaching Assistant in School of Electrical and Electronic Engineering, Yonsei University <br/>
-<span style="color:gray"> Data Structure (EEE2020), 2018-01. </span><br/>
-<span style="color:gray"> Electrical and Electronic Engineering Experiments: Applications (EEE3313), 2018-02. </span><br/>
-<span style="color:gray"> Signal Processing Lab. (EEE4423), 2019-01. </span><br/>
-<span style="color:gray"> Smart Technology AIR (ENG2116), 2019-01. </span><br/>
-<span style="color:gray"> Signal Processing Lab. (EEE4423), 2020-01. </span><br/>
-<span style="color:gray"> Random Process (EEE5110), 2020-01. </span><br/>
 <span style="color:gray"> Digital Image Processing (EEE5320), 2021-01. </span><br/>
+<span style="color:gray"> Random Process (EEE5110), 2020-01. </span><br/>
+<span style="color:gray"> Signal Processing Lab. (EEE4423), 2020-01. </span><br/>
+<span style="color:gray"> Smart Technology AIR (ENG2116), 2019-01. </span><br/>
+<span style="color:gray"> Signal Processing Lab. (EEE4423), 2019-01. </span><br/>
+<span style="color:gray"> Electrical and Electronic Engineering Experiments: Applications (EEE3313), 2018-02. </span><br/>
+<span style="color:gray"> Data Structure (EEE2020), 2018-01. </span><br/>
