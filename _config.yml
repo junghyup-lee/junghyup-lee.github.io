@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Junghyup Lee's Website"
 title_separator          : "-"
-subtitle                 : "Last update: Nov. 29, 2019" # site tagline that appears below site title in masthead
+subtitle                 : "Last update: Apr. 06, 2021" # site tagline that appears below site title in masthead
 name                     : "Junghyup Lee"
 description              : ""
 url                      : "https://junghyup-lee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -116,7 +116,7 @@ author:
     - label: "junghyup.lee@yonsei.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:junghyup.lee@yonsei.ac.kr
-    - label: "CVLab@YonseiUniv."
+    - label: "CVLab@Yonsei Univ."
       icon: "fas fa-fw fa-link"
       url: "https://cvlab.yonsei.ac.kr"
     - label: "Twitter"
