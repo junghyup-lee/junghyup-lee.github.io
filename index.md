@@ -40,7 +40,7 @@ author_profile: true
   	[<a href="https://cvlab.yonsei.ac.kr/projects/EWGS/">Project Page</a>]
 - Learning Semantic Correspondence Exploiting an Object-level Prior<br/>
   <span style="color:gray"> <b>Junghyup Lee</b>\*, Dohyung Kim\*, Wonkyung Lee, and Bumsub Ham (\*equal contribution). </span> <br/>
-  <span style="color:gray"> <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>)</i>, Accepted. </span> <br/>
+  <span style="color:gray"> <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>)</i>, Early Access. </span> <br/>
   <span style="color:gray"> 
   	[<a href="https://ieeexplore.ieee.org/abstract/document/9154588">Paper</a>] 
   	[<a href="https://cvlab.yonsei.ac.kr/projects/SFNet/">Project Page</a>]
