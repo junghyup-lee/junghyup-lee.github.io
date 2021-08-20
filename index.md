@@ -80,6 +80,8 @@ author_profile: true
 
 
 ## Domestic Presentations
+- Poster Presentation (Network Quantization with Element-wise Gradient Scaling) <br/>
+<span style="color:gray"> *Korean Conference on Computer Vision (<a href="http://kccv2021.kcvs.kr/">KCCV</a>)*, Aug. 2021. </span>
 - Poster Presentation (시멘틱 정합을 이용한 비디오 포즈 전파)<br/>
 <span style="color:gray"> *32nd Workshop on Image Processing and Image Understanding (<a href="http://ipiu.or.kr/2020/">IPIU</a>)*, Jan. 2020. </span>
 - Poster Presentation (SFNet: Learning Object-aware Semantic Correspondence) <br/>
