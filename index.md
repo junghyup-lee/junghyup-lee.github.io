@@ -68,17 +68,6 @@ author_profile: true
 ## Scholarship
 - Global Ph.D Fellowship from National Research Foundation of Korea (NRF), 2019-2023.
 
-## Patents
-- Image Upscaling Appratus and Method Based on Learning with Privileged Information<br/>
-<span style="color:gray"> 10-2020-0140601, KR, Oct. 2020. (Application) </span> 
-- Quantizer and Quantization Method for Artificial Neural Network<br/>
-<span style="color:gray"> 10-2020-0135673, KR, Oct. 2020. (Application) </span>
-- Quantizer for Artificial Neural Networks and Loss Backpropagation Method Thereof<br/>
-<span style="color:gray"> 10-2020-0135662, KR, Oct. 2020. (Application) </span>
-- Semantic Matching Apparatus and Method<br/>
-<span style="color:gray"> 10-2166117, KR, Oct. 2020. (Registration) </span>
-
-
 ## Domestic Presentations
 - Poster Presentation (Network Quantization with Element-wise Gradient Scaling) <br/>
 <span style="color:gray"> *Korean Conference on Computer Vision (<a href="http://kccv2021.kcvs.kr/">KCCV</a>)*, Aug. 2021. </span>
@@ -88,6 +77,16 @@ author_profile: true
 <span style="color:gray"> *Samsung AI Forum (<a href="https://research.samsung.com/2019saif">SAIF</a>)*, Nov. 2019. </span> <br/>
 <span style="color:gray"> *Workshop on Frontiers of Electrical Engineering (FREE) in Yonsei University*, Oct. 2019. </span> <br/>
 <span style="color:gray"> *Korean Conference on Computer Vision (<a href="https://kcvs.kr/front/conference/2019/">KCCV</a>)*, Jul. 2019. </span>
+
+## Patents
+- Image Upscaling Appratus and Method Based on Learning with Privileged Information<br/>
+<span style="color:gray"> 10-2020-0140601, KR, Oct. 2020. (Application) </span> 
+- Quantizer and Quantization Method for Artificial Neural Network<br/>
+<span style="color:gray"> 10-2020-0135673, KR, Oct. 2020. (Application) </span>
+- Quantizer for Artificial Neural Networks and Loss Backpropagation Method Thereof<br/>
+<span style="color:gray"> 10-2020-0135662, KR, Oct. 2020. (Application) </span>
+- Semantic Matching Apparatus and Method<br/>
+<span style="color:gray"> 10-2166117, KR, Oct. 2020. (Registration) </span>
 
 ## Teaching Experience
 - Teaching Assistant in School of Electrical and Electronic Engineering, Yonsei University <br/>
