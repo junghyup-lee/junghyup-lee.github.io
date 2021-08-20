@@ -14,6 +14,24 @@ author_profile: true
 - B.S. in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (2012-2018).
 
 ## Publications
+- Learning by Aligning: Visible-Infrared Person Re-identification using Cross-Modal Correspondences<br/>
+  <span style="color:gray"> Hyunjong Park\*, Sanghoon Lee\*, <b>Junghyup Lee</b>, and Bumsub Ham (\*equal contribution). </span> <br/>
+  <span style="color:gray"> in <i>International Conference on Computer Vision (<a href="http://iccv2021.thecvf.com/home">ICCV</a>)</i>, Oct. 2021. </span> <br/>
+  <span style="color:gray"> 
+    [<a href="https://arxiv.org/abs/2108.07422">Paper</a>] 
+    [<a href="https://cvlab.yonsei.ac.kr/projects/LbA/">Project Page</a>]
+- Video-based Person Re-identification with Spatial and Temporal Memory Networks<br/>
+  <span style="color:gray"> Chanho Eom, Geon Lee, <b>Junghyup Lee</b>, and Bumsub Ham. </span> <br/>
+  <span style="color:gray"> in <i>International Conference on Computer Vision (<a href="http://iccv2021.thecvf.com/home">ICCV</a>)</i>, Oct. 2021. </span> <br/>
+  <!-- <span style="color:gray"> 
+    [<a href="">Paper</a>] 
+    [<a href="">Project Page</a>] -->
+- Distance-aware Quantization<br/>
+  <span style="color:gray"> Dohyung Kim, <b>Junghyup Lee</b>, and Bumsub Ham. </span> <br/>
+  <span style="color:gray"> in <i>International Conference on Computer Vision (<a href="http://iccv2021.thecvf.com/home">ICCV</a>)</i>, Oct. 2021. </span> <br/>
+  <span style="color:gray"> 
+    [<a href="https://arxiv.org/abs/2108.06983">Paper</a>] 
+    [<a href="https://cvlab.yonsei.ac.kr/projects/DAQ/">Project Page</a>]
 - Network Quantization with Element-wise Gradient Scaling<br/>
   <span style="color:gray"> <b>Junghyup Lee</b>, Dohyung Kim, and Bumsub Ham. </span> <br/>
   <span style="color:gray"> in <i>IEEE Conference on Computer Vision and Pattern Recognition (<a href="http://cvpr2021.thecvf.com/">CVPR</a>)</i>, Jun. 2021. </span> <br/>
