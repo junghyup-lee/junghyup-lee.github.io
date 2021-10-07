@@ -23,9 +23,9 @@ author_profile: true
 - Video-based Person Re-identification with Spatial and Temporal Memory Networks<br/>
   <span style="color:gray"> Chanho Eom, Geon Lee, <b>Junghyup Lee</b>, and Bumsub Ham. </span> <br/>
   <span style="color:gray"> in <i>International Conference on Computer Vision (<a href="http://iccv2021.thecvf.com/home">ICCV</a>)</i>, Oct. 2021. </span> <br/>
-  <!-- <span style="color:gray"> 
-    [<a href="">Paper</a>] 
-    [<a href="">Project Page</a>] -->
+  <span style="color:gray"> 
+    [<a href="https://arxiv.org/abs/2108.09039">Paper</a>] 
+    [<a href="https://cvlab.yonsei.ac.kr/projects/STMN/">Project Page</a>]
 - Distance-aware Quantization<br/>
   <span style="color:gray"> Dohyung Kim, <b>Junghyup Lee</b>, and Bumsub Ham. </span> <br/>
   <span style="color:gray"> in <i>International Conference on Computer Vision (<a href="http://iccv2021.thecvf.com/home">ICCV</a>)</i>, Oct. 2021. </span> <br/>
@@ -68,8 +68,9 @@ author_profile: true
 ## Scholarship
 - Global Ph.D Fellowship from National Research Foundation of Korea (NRF), 2019-2023.
 
-## Domestic Presentations
+## Domestic Conferences & Invited Talks
 - Poster Presentation (Network Quantization with Element-wise Gradient Scaling) <br/>
+<span style="color:gray"> *Naver AI Author Meetup - Computer Vision*, Sept. 2021. </span> <br/>
 <span style="color:gray"> *Korean Conference on Computer Vision (<a href="http://kccv2021.kcvs.kr/">KCCV</a>)*, Aug. 2021. </span>
 - Poster Presentation (시멘틱 정합을 이용한 비디오 포즈 전파)<br/>
 <span style="color:gray"> *32nd Workshop on Image Processing and Image Understanding (<a href="http://ipiu.or.kr/2020/">IPIU</a>)*, Jan. 2020. </span>
