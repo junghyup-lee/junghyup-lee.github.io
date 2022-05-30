@@ -4,7 +4,7 @@ layout: archive
 author_profile: true
 ---
 
-> I am a student in School of Electrical and Electronic Engineering at Yonsei University, currently pursuing Ph.D degree. 
+> I am a student in School of Electrical and Electronic Engineering at Yonsei University, currently pursuing a Ph.D degree. 
 > 
 > My research interests are machine learning and computer vision, mainly including local feature matching, image restoration, and network compression.
 
@@ -14,6 +14,13 @@ author_profile: true
 - B.S. in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (2012-2018).
 
 ## Publications
+- Learning Semantic Correspondence Exploiting an Object-level Prior<br/>
+  <span style="color:gray"> <b>Junghyup Lee</b>\*, Dohyung Kim\*, Wonkyung Lee, and Bumsub Ham (\*equal contribution). </span> <br/>
+  <span style="color:gray"> <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>)</i>, vol. 44, no. 3, pp. 1399-1414, Mar. 2022. </span> <br/>
+  <span style="color:gray"> 
+    [<a href="https://ieeexplore.ieee.org/abstract/document/9154588">Paper</a>] 
+    [<a href="https://cvlab.yonsei.ac.kr/projects/SFNet/">Project Page</a>]
+  </span>
 - Learning by Aligning: Visible-Infrared Person Re-identification using Cross-Modal Correspondences<br/>
   <span style="color:gray"> Hyunjong Park\*, Sanghoon Lee\*, <b>Junghyup Lee</b>, and Bumsub Ham (\*equal contribution). </span> <br/>
   <span style="color:gray"> in <i>International Conference on Computer Vision (<a href="http://iccv2021.thecvf.com/home">ICCV</a>)</i>, Oct. 2021. </span> <br/>
@@ -38,13 +45,6 @@ author_profile: true
   <span style="color:gray"> 
   	[<a href="https://arxiv.org/abs/2104.00903">Paper</a>] 
   	[<a href="https://cvlab.yonsei.ac.kr/projects/EWGS/">Project Page</a>]
-- Learning Semantic Correspondence Exploiting an Object-level Prior<br/>
-  <span style="color:gray"> <b>Junghyup Lee</b>\*, Dohyung Kim\*, Wonkyung Lee, and Bumsub Ham (\*equal contribution). </span> <br/>
-  <span style="color:gray"> <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>)</i>, vol. 44, no. 3, pp. 1399-1414, Mar. 2022. </span> <br/>
-  <span style="color:gray"> 
-  	[<a href="https://ieeexplore.ieee.org/abstract/document/9154588">Paper</a>] 
-  	[<a href="https://cvlab.yonsei.ac.kr/projects/SFNet/">Project Page</a>]
-  </span>
 - Learning with Privileged Information for Efficient Image Super-Resolution<br/>
   <span style="color:gray"> Wonkyung Lee\*, <b>Junghyup Lee</b>\*, Dohyung Kim\*, and Bumsub Ham (\*equal contribution). </span> <br/>
   <span style="color:gray"> in <i>European Conference on Computer Vision (<a href="https://eccv2020.eu/">ECCV</a>)</i>, Aug. 2020. </span> <br/>
@@ -66,7 +66,8 @@ author_profile: true
 - Excellence Award, Graduate Student Paper Contest in Yonsei University, 2020.
 - Silver Prize, [25th Samsung Humantech Paper Award](https://humantech.samsung.com/), 2019.
 
-## Scholarship
+## Scholarship & Funding
+- Yangyoung Scholarship provided by [Yangyoung Foundataion](https://samyang.yangyoungfoundation.org/), 2016-2017.
 - Global Ph.D Fellowship from National Research Foundation of Korea (NRF), 2019-2023.
 
 ## Domestic Conferences & Invited Talks
