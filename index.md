@@ -67,10 +67,12 @@ author_profile: true
 - Silver Prize, [25th Samsung Humantech Paper Award](https://humantech.samsung.com/), 2019.
 
 ## Scholarship & Funding
-- Yangyoung Scholarship provided by [Yangyoung Foundataion](https://samyang.yangyoungfoundation.org/), 2016-2017.
 - Global Ph.D Fellowship from National Research Foundation of Korea (NRF), 2019-2023.
+- Yangyoung Scholarship provided by [Yangyoung Foundataion](https://samyang.yangyoungfoundation.org/), 2016-2017.
 
 ## Domestic Conferences & Invited Talks
+- Invited Talk (Network Quantization) <br/>
+<span style="color:gray"> *Naver Labs Seminar*, Jun. 2022. </span>
 - Poster Presentation (Network Quantization with Element-wise Gradient Scaling) <br/>
 <span style="color:gray"> *Naver AI Author Meetup - Computer Vision*, Sept. 2021. </span> <br/>
 <span style="color:gray"> *Korean Conference on Computer Vision (<a href="http://kccv2021.kcvs.kr/">KCCV</a>)*, Aug. 2021. </span>
