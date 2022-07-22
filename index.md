@@ -14,6 +14,13 @@ author_profile: true
 - B.S. in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (2012-2018).
 
 ## Publications
+- OIMNet++: Prototypical Normalization and Localization-aware Learning for Person Search <br/>
+  <span style="color:gray"> Sanghoon Lee, Youngmin Oh, Donghyeon Baek, <b>Junghyup Lee</b>, and Bumsub Ham. </span> <br/>
+  <span style="color:gray"> <i>European Conference on Computer Vision (<a href="https://eccv2022.ecva.net/">ECCV</a>)</i>, Oct. 2022. </span> <br/>
+  <span style="color:gray"> 
+    [<a href="https://arxiv.org/abs/2207.10320">Paper</a>]
+    [<a href="https://cvlab.yonsei.ac.kr/projects/OIMNetPlus/">Project Page</a>]
+  </span>
 - Learning Semantic Correspondence Exploiting an Object-level Prior<br/>
   <span style="color:gray"> <b>Junghyup Lee</b>\*, Dohyung Kim\*, Wonkyung Lee, and Bumsub Ham (\*equal contribution). </span> <br/>
   <span style="color:gray"> <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>)</i>, vol. 44, no. 3, pp. 1399-1414, Mar. 2022. </span> <br/>
