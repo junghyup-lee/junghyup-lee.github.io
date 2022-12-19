@@ -14,6 +14,13 @@ author_profile: true
 - B.S. in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (2012-2018).
 
 ## Publications
+- Decomposed Knowledge Distillation for Class-Incremental Semantic Segmentation <br/>
+  <span style="color:gray"> Donghyeon Baek, Youngmin Oh, Sanghoon Lee, <b>Junghyup Lee</b>, and Bumsub Ham. </span> <br/>
+  <span style="color:gray"> <i>Neural Information Processing Systems (<a href="https://nips.cc/Conferences/2022">NeurIPS</a>)</i>, Nov. 2022. </span> <br/>
+  <span style="color:gray"> 
+    [<a href="https://arxiv.org/abs/2210.05941">Paper</a>]
+    [<a href="https://cvlab.yonsei.ac.kr/projects/DKD/">Project Page</a>]
+  </span>
 - OIMNet++: Prototypical Normalization and Localization-aware Learning for Person Search <br/>
   <span style="color:gray"> Sanghoon Lee, Youngmin Oh, Donghyeon Baek, <b>Junghyup Lee</b>, and Bumsub Ham. </span> <br/>
   <span style="color:gray"> <i>European Conference on Computer Vision (<a href="https://eccv2022.ecva.net/">ECCV</a>)</i>, Oct. 2022. </span> <br/>
@@ -91,13 +98,20 @@ author_profile: true
 <span style="color:gray"> *Korean Conference on Computer Vision (<a href="https://kcvs.kr/front/conference/2019/">KCCV</a>)*, Jul. 2019. </span>
 
 ## Patents
-- Image Upscaling Appratus and Method Based on Learning with Privileged Information<br/>
+- 인공 신경망을 위한 양자화기 및 이의 손실 역전파 방법<br/>
+Quantizer for Artificial Neural Networks and Loss Backpropagation Method Thereof<br/>
+<span style="color:gray"> 10-2409476, KR, Jun. 2022. (Registration) </span>
+- 시공간 메모리 네트워크를 활용한 동영상 기반 사람 재식별 장치 및 방법 <br/>
+(Apparatus and Method for Person Re-Identification based on Video with Spatial and Temporal Memory Networks) <br/>
+<span style="color:gray"> 10-2021-0179580, KR, Oct. 2020. (Application) </span> 
+- 사전 정보 학습 기반 영상 업스케일링 장치 및 방법<br/>
+Image Upscaling Appratus and Method Based on Learning with Privileged Information<br/>
 <span style="color:gray"> 10-2020-0140601, KR, Oct. 2020. (Application) </span> 
-- Quantizer and Quantization Method for Artificial Neural Network<br/>
+- 인공 신경망을 위한 양자화기 및 양자화 방법<br/>
+Quantizer and Quantization Method for Artificial Neural Network<br/>
 <span style="color:gray"> 10-2020-0135673, KR, Oct. 2020. (Application) </span>
-- Quantizer for Artificial Neural Networks and Loss Backpropagation Method Thereof<br/>
-<span style="color:gray"> 10-2020-0135662, KR, Oct. 2020. (Application) </span>
-- Semantic Matching Apparatus and Method<br/>
+- 시멘틱 매칭 장치 및 방법<br/>
+Semantic Matching Apparatus and Method<br/>
 <span style="color:gray"> 10-2166117, KR, Oct. 2020. (Registration) </span>
 
 ## Teaching Experience
