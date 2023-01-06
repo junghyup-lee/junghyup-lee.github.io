@@ -98,12 +98,15 @@ author_profile: true
 <span style="color:gray"> *Korean Conference on Computer Vision (<a href="https://kcvs.kr/front/conference/2019/">KCCV</a>)*, Jul. 2019. </span>
 
 ## Patents
+- 분해 지식 증류 기반 클래스 증분 시멘틱 분할 학습 장치 및 방법 <br/>
+Apparatus and Method for Class Incremental Semantic Segmentation Learning based on Decomposed Knowledge Distillation <br/>
+<span style="color:gray"> 10-2022-0185609, KR, Dec. 2022. (Application) </span> 
 - 인공 신경망을 위한 양자화기 및 이의 손실 역전파 방법<br/>
 Quantizer for Artificial Neural Networks and Loss Backpropagation Method Thereof<br/>
 <span style="color:gray"> 10-2409476, KR, Jun. 2022. (Registration) </span>
 - 시공간 메모리 네트워크를 활용한 동영상 기반 사람 재식별 장치 및 방법 <br/>
-(Apparatus and Method for Person Re-Identification based on Video with Spatial and Temporal Memory Networks) <br/>
-<span style="color:gray"> 10-2021-0179580, KR, Oct. 2020. (Application) </span> 
+Apparatus and Method for Person Re-Identification based on Video with Spatial and Temporal Memory Networks <br/>
+<span style="color:gray"> 10-2021-0179580, KR, Dec. 2021. (Application) </span> 
 - 사전 정보 학습 기반 영상 업스케일링 장치 및 방법<br/>
 Image Upscaling Appratus and Method Based on Learning with Privileged Information<br/>
 <span style="color:gray"> 10-2020-0140601, KR, Oct. 2020. (Application) </span> 
