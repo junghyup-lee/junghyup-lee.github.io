@@ -32,6 +32,12 @@
     "build:js": "npm run uglify && npm run add-banner"
   },
   "resolutions": {
-    "minimist": "1.2.6"
+    "minimist": "1.2.6",
+    "shell-quote": ">=1.7.3",
+    "minimatch": ">=3.0.5",
+    "glob-parent": ">=5.1.2",
+    "tree-kill": ">=1.2.2",
+    "path-parse": ">=1.0.7",
+    "hosted-git-info": ">=2.8.9"
   }
 }
