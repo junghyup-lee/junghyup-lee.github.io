@@ -10,10 +10,17 @@ author_profile: true
 
 ## Education
 - Joint course of M.S./Ph.D degrees in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (2018-Present).
-	* Supervised by [Prof. Bumsub Ham](https://bsham.github.io/) in [Computer Vision Lab](https://cvlab.yonsei.ac.kr/).
+	* Supervised by Prof. Bumsub Ham in [Computer Vision Lab](https://cvlab.yonsei.ac.kr/).
 - B.S. in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (2012-2018).
 
 ## Publications
+- RankMixup: Ranking-Based Mixup Training for Network Calibration <br/>
+  <span style="color:gray"> Jongyoun Noh, Hyekang Park, <b>Junghyup Lee</b>, and Bumsub Ham. </span> <br/>
+  <span style="color:gray"> in <i>International Conference on Computer Vision (<a href="https://iccv2023.thecvf.com/">ICCV</a>)</i>, Oct. 2023. </span> <br/>
+  <span style="color:gray"> 
+    [<a href="https://arxiv.org/abs/2308.11990">Paper</a>]
+    [<a href="https://cvlab.yonsei.ac.kr/projects/RankMixup/">Project Page</a>]
+  </span>
 - Decomposed Knowledge Distillation for Class-Incremental Semantic Segmentation <br/>
   <span style="color:gray"> Donghyeon Baek, Youngmin Oh, Sanghoon Lee, <b>Junghyup Lee</b>, and Bumsub Ham. </span> <br/>
   <span style="color:gray"> <i>Neural Information Processing Systems (<a href="https://nips.cc/Conferences/2022">NeurIPS</a>)</i>, Nov. 2022. </span> <br/>
@@ -98,6 +105,12 @@ author_profile: true
 <span style="color:gray"> *Korean Conference on Computer Vision (<a href="https://kcvs.kr/front/conference/2019/">KCCV</a>)*, Jul. 2019. </span>
 
 ## Patents
+- 사전 정보 학습 기반 영상 업스케일링 장치 및 방법<br/>
+Image Upscaling Appratus and Method Based on Learning with Privileged Information<br/>
+<span style="color:gray"> 10-2543690, KR, Jun. 2023. (Registration) </span> 
+- 양자화 학습 장치 및 방법 <br/>
+Quantization-Aware Training Apparatus and Method <br/>
+<span style="color:gray"> 10-2023-0049837, KR, Apr. 2023. (Application) </span> 
 - 분해 지식 증류 기반 클래스 증분 시멘틱 분할 학습 장치 및 방법 <br/>
 Apparatus and Method for Class Incremental Semantic Segmentation Learning based on Decomposed Knowledge Distillation <br/>
 <span style="color:gray"> 10-2022-0185609, KR, Dec. 2022. (Application) </span> 
@@ -107,9 +120,6 @@ Quantizer for Artificial Neural Networks and Loss Backpropagation Method Thereof
 - 시공간 메모리 네트워크를 활용한 동영상 기반 사람 재식별 장치 및 방법 <br/>
 Apparatus and Method for Person Re-Identification based on Video with Spatial and Temporal Memory Networks <br/>
 <span style="color:gray"> 10-2021-0179580, KR, Dec. 2021. (Application) </span> 
-- 사전 정보 학습 기반 영상 업스케일링 장치 및 방법<br/>
-Image Upscaling Appratus and Method Based on Learning with Privileged Information<br/>
-<span style="color:gray"> 10-2020-0140601, KR, Oct. 2020. (Application) </span> 
 - 인공 신경망을 위한 양자화기 및 양자화 방법<br/>
 Quantizer and Quantization Method for Artificial Neural Network<br/>
 <span style="color:gray"> 10-2020-0135673, KR, Oct. 2020. (Application) </span>
@@ -117,7 +127,15 @@ Quantizer and Quantization Method for Artificial Neural Network<br/>
 Semantic Matching Apparatus and Method<br/>
 <span style="color:gray"> 10-2166117, KR, Oct. 2020. (Registration) </span>
 
-## Teaching Experience
+## Experiences
+- Reviewer <br/>
+<span style="color:gray"> IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020, 2021, 2022, 2023. </span><br/>
+<span style="color:gray"> Neural Information Processing Systems (NeurIPS), 2020, 2021, 2022. </span><br/>
+<span style="color:gray"> International Conference on Computer Vision (ICCV), 2019, 2021. </span><br/>
+<span style="color:gray"> European Conference on Computer Vision (ECCV), 2020. </span><br/>
+<span style="color:gray"> AAAI Conference on Artificial Intelligence (AAAI), 2023. </span><br/>
+<span style="color:gray"> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). </span><br/>
+
 - Teaching Assistant in School of Electrical and Electronic Engineering, Yonsei University <br/>
 <span style="color:gray"> Digital Image Processing (EEE5320), 2021-01. </span><br/>
 <span style="color:gray"> Random Process (EEE5110), 2020-01. </span><br/>
@@ -126,3 +144,4 @@ Semantic Matching Apparatus and Method<br/>
 <span style="color:gray"> Signal Processing Lab. (EEE4423), 2019-01. </span><br/>
 <span style="color:gray"> Electrical and Electronic Engineering Experiments: Applications (EEE3313), 2018-02. </span><br/>
 <span style="color:gray"> Data Structure (EEE2020), 2018-01. </span><br/>
+
