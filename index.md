@@ -9,9 +9,9 @@ author_profile: true
 > My research interests are machine learning and computer vision, mainly including local feature matching, image restoration, and network compression.
 
 ## Education
-- Joint course of M.S./Ph.D degrees in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (2018-Present).
+- Joint course of M.S./Ph.D degrees in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (Mar. 2018 - Aug. 2024 (expected)).
 	* Supervised by Prof. Bumsub Ham in [Computer Vision Lab](https://cvlab.yonsei.ac.kr/).
-- B.S. in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (2012-2018).
+- B.S. in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (Mar. 2012 - Feb. 2018).
 
 ## Publications
 - RankMixup: Ranking-Based Mixup Training for Network Calibration <br/>
@@ -23,14 +23,20 @@ author_profile: true
   </span>
 - Decomposed Knowledge Distillation for Class-Incremental Semantic Segmentation <br/>
   <span style="color:gray"> Donghyeon Baek, Youngmin Oh, Sanghoon Lee, <b>Junghyup Lee</b>, and Bumsub Ham. </span> <br/>
-  <span style="color:gray"> <i>Neural Information Processing Systems (<a href="https://nips.cc/Conferences/2022">NeurIPS</a>)</i>, Nov. 2022. </span> <br/>
+  <span style="color:gray"> in <i>Neural Information Processing Systems (<a href="https://nips.cc/Conferences/2022">NeurIPS</a>)</i>, Nov. 2022. </span> <br/>
   <span style="color:gray"> 
     [<a href="https://arxiv.org/abs/2210.05941">Paper</a>]
     [<a href="https://cvlab.yonsei.ac.kr/projects/DKD/">Project Page</a>]
   </span>
+- SIF-NPU: A 28nm 3.48 TOPS/W 0.25 TOPS/mm<sup>2</sup> CNN Accelerator with Spatially Independent Fusion for Real-Time UHD Super-Resolution <br/>
+  <span style="color:gray"> Sumin Lee, Ki-Beom Lee, Sunghwan Joo, Hong Keun Ahn, <b>Junghyup Lee</b>, Dohyung Kim, Bumsub Ham, and Seong-Ook Jung. </span> <br/>
+  <span style="color:gray"> in <i>IEEE European Solid State Circuits Conference (ESSCIRC)</i>, Sep. 2022. </span> <br/>
+  <span style="color:gray"> 
+    [<a href="https://ieeexplore.ieee.org/document/9911509">Paper</a>]
+  </span>
 - OIMNet++: Prototypical Normalization and Localization-aware Learning for Person Search <br/>
   <span style="color:gray"> Sanghoon Lee, Youngmin Oh, Donghyeon Baek, <b>Junghyup Lee</b>, and Bumsub Ham. </span> <br/>
-  <span style="color:gray"> <i>European Conference on Computer Vision (<a href="https://eccv2022.ecva.net/">ECCV</a>)</i>, Oct. 2022. </span> <br/>
+  <span style="color:gray"> in <i>European Conference on Computer Vision (<a href="https://eccv2022.ecva.net/">ECCV</a>)</i>, Oct. 2022. </span> <br/>
   <span style="color:gray"> 
     [<a href="https://arxiv.org/abs/2207.10320">Paper</a>]
     [<a href="https://cvlab.yonsei.ac.kr/projects/OIMNetPlus/">Project Page</a>]
@@ -95,7 +101,7 @@ author_profile: true
 - Invited Talk (Network Quantization) <br/>
 <span style="color:gray"> *Naver Labs Seminar*, Jun. 2022. </span>
 - Poster Presentation (Network Quantization with Element-wise Gradient Scaling) <br/>
-<span style="color:gray"> *Naver AI Author Meetup - Computer Vision*, Sept. 2021. </span> <br/>
+<span style="color:gray"> *Naver AI Author Meetup - Computer Vision*, Sep. 2021. </span> <br/>
 <span style="color:gray"> *Korean Conference on Computer Vision (<a href="http://kccv2021.kcvs.kr/">KCCV</a>)*, Aug. 2021. </span>
 - Poster Presentation (시멘틱 정합을 이용한 비디오 포즈 전파)<br/>
 <span style="color:gray"> *32nd Workshop on Image Processing and Image Understanding (<a href="http://ipiu.or.kr/2020/">IPIU</a>)*, Jan. 2020. </span>
@@ -105,8 +111,11 @@ author_profile: true
 <span style="color:gray"> *Korean Conference on Computer Vision (<a href="https://kcvs.kr/front/conference/2019/">KCCV</a>)*, Jul. 2019. </span>
 
 ## Patents
+- 인공 신경망을 위한 양자화 장치 및 방법 <br/>
+Quantization Apparatus and Method for Artificial Neural Network <br/>
+<span style="color:gray"> 10-2023-0116857, KR, Sep. 2023. (Application) </span> 
 - 사전 정보 학습 기반 영상 업스케일링 장치 및 방법<br/>
-Image Upscaling Appratus and Method Based on Learning with Privileged Information<br/>
+Image Upscaling Apparatus and Method Based on Learning with Privileged Information<br/>
 <span style="color:gray"> 10-2543690, KR, Jun. 2023. (Registration) </span> 
 - 양자화 학습 장치 및 방법 <br/>
 Quantization-Aware Training Apparatus and Method <br/>
