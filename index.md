@@ -4,9 +4,9 @@ layout: archive
 author_profile: true
 ---
 
-> I am a student in School of Electrical and Electronic Engineering at Yonsei University, currently pursuing a Ph.D degree. 
+> I am a Ph.D. candidate in School of Electrical and Electronic Engineering at Yonsei University. 
 > 
-> My research interests are machine learning and computer vision, mainly including local feature matching, image restoration, and network compression.
+> My research interests span a wide spectrum of machine learning and computer vision, mainly focusing on efficient machine learning (network quantization, network architecture search, knowledge distillation), image matching (semantic correspondence), and image restoration (super-resolution).
 
 ## Education
 - Joint course of M.S./Ph.D degrees in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (Mar. 2018 - Aug. 2024 (expected)).
