@@ -14,6 +14,13 @@ author_profile: true
 - B.S. in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (Mar. 2012 - Feb. 2018).
 
 ## Publications
+- AZ-NAS: Assembling Zero-Cost Proxies for Network Architecture Search <br/>
+  <span style="color:gray"> <b>Junghyup Lee</b> and Bumsub Ham. </span> <br/>
+  <span style="color:gray"> in <i>IEEE Conference on Computer Vision and Pattern Recognition (<a href="https://cvpr.thecvf.com/Conferences/2024">CVPR</a>)</i>, Jun. 2024. </span> <br/>
+  <!-- <span style="color:gray"> 
+    [<a href="https://arxiv.org/abs/2308.11990">Paper</a>]
+    [<a href="https://cvlab.yonsei.ac.kr/projects/RankMixup/">Project Page</a>]
+  </span> -->
 - RankMixup: Ranking-Based Mixup Training for Network Calibration <br/>
   <span style="color:gray"> Jongyoun Noh, Hyekang Park, <b>Junghyup Lee</b>, and Bumsub Ham. </span> <br/>
   <span style="color:gray"> in <i>International Conference on Computer Vision (<a href="https://iccv2023.thecvf.com/">ICCV</a>)</i>, Oct. 2023. </span> <br/>
@@ -138,7 +145,7 @@ Semantic Matching Apparatus and Method<br/>
 
 ## Experiences
 - Reviewer <br/>
-<span style="color:gray"> IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020, 2021, 2022, 2023. </span><br/>
+<span style="color:gray"> IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020, 2021, 2022, 2023, 2024. </span><br/>
 <span style="color:gray"> Neural Information Processing Systems (NeurIPS), 2020, 2021, 2022. </span><br/>
 <span style="color:gray"> International Conference on Computer Vision (ICCV), 2019, 2021. </span><br/>
 <span style="color:gray"> European Conference on Computer Vision (ECCV), 2020. </span><br/>
