@@ -18,10 +18,10 @@ author_profile: true
 - AZ-NAS: Assembling Zero-Cost Proxies for Network Architecture Search <br/>
   <span style="color:gray;font-size : 12pt"> <b>Junghyup Lee</b> and Bumsub Ham. </span> <br/>
   <span style="color:gray;font-size : 12pt"> in <i>IEEE Conference on Computer Vision and Pattern Recognition (<a href="https://cvpr.thecvf.com/Conferences/2024">CVPR</a>)</i>, Jun. 2024. </span> <br/>
-  <!-- <span style="color:gray;font-size : 12pt"> 
-    [<a href="https://arxiv.org/abs/2308.11990">Paper</a>]
-    [<a href="https://cvlab.yonsei.ac.kr/projects/RankMixup/">Project Page</a>]
-  </span> -->
+  <span style="color:gray;font-size : 12pt"> 
+    [<a href="https://arxiv.org/abs/2403.19232">Paper</a>]
+    [<a href="https://cvlab.yonsei.ac.kr/projects/AZNAS/">Project Page</a>]
+  </span>
 - Learning Semantic Correspondence Exploiting an Object-level Prior<br/>
   <span style="color:gray;font-size : 12pt"> <b>Junghyup Lee</b>\*, Dohyung Kim\*, Wonkyung Lee, and Bumsub Ham (\*equal contribution). </span> <br/>
   <span style="color:gray;font-size : 12pt"> <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>)</i>, vol. 44, no. 3, pp. 1399-1414, Mar. 2022. </span> <br/>
