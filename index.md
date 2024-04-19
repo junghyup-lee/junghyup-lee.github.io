@@ -51,6 +51,12 @@ author_profile: true
   </span>
 
 ### Co-author
+- PLoPS: Localization-Aware Person Search with Prototypical Normalization <br/>
+  <span style="color:gray;font-size : 12pt"> Sanghoon Lee, Youngmin Oh, Donghyeon Baek, <b>Junghyup Lee</b>, and Bumsub Ham. </span> <br/>
+  <span style="color:gray;font-size : 12pt"> <i> Pattern Recognition (<a href="https://www.sciencedirect.com/journal/pattern-recognition">PR</a>)</i>, Apr. 2024. (Accepted) </span> <br/>
+  <span style="color:gray;font-size : 12pt"> 
+    [<a href="https://www.sciencedirect.com/science/article/pii/S0031320324002309">Paper</a>]
+  </span>
 - RankMixup: Ranking-Based Mixup Training for Network Calibration <br/>
   <span style="color:gray;font-size : 12pt"> Jongyoun Noh, Hyekang Park, <b>Junghyup Lee</b>, and Bumsub Ham. </span> <br/>
   <span style="color:gray;font-size : 12pt"> in <i>International Conference on Computer Vision (<a href="https://iccv2023.thecvf.com/">ICCV</a>)</i>, Oct. 2023. </span> <br/>
@@ -122,30 +128,33 @@ author_profile: true
 <span style="color:gray;font-size : 12pt"> *Korean Conference on Computer Vision (<a href="https://kcvs.kr/front/conference/2019/">KCCV</a>)*, Jul. 2019. </span>
 
 ## Patents
-- 인공 신경망을 위한 양자화 장치 및 방법 <br/>
-Quantization Apparatus and Method for Artificial Neural Network <br/>
-<span style="color:gray;font-size : 12pt"> 10-2023-0116857, KR, Sep. 2023. (Application) </span> 
+### Registration
 - 사전 정보 학습 기반 영상 업스케일링 장치 및 방법<br/>
 Image Upscaling Apparatus and Method Based on Learning with Privileged Information<br/>
-<span style="color:gray;font-size : 12pt"> 10-2543690, KR, Jun. 2023. (Registration) </span> 
-- 양자화 학습 장치 및 방법 <br/>
-Quantization-Aware Training Apparatus and Method <br/>
-<span style="color:gray;font-size : 12pt"> 10-2023-0049837, KR, Apr. 2023. (Application) </span> 
-- 분해 지식 증류 기반 클래스 증분 시멘틱 분할 학습 장치 및 방법 <br/>
-Apparatus and Method for Class Incremental Semantic Segmentation Learning based on Decomposed Knowledge Distillation <br/>
-<span style="color:gray;font-size : 12pt"> 10-2022-0185609, KR, Dec. 2022. (Application) </span> 
+<span style="color:gray;font-size : 12pt"> 10-2543690, KR, Jun. 2023. </span> 
 - 인공 신경망을 위한 양자화기 및 이의 손실 역전파 방법<br/>
 Quantizer for Artificial Neural Networks and Loss Backpropagation Method Thereof<br/>
-<span style="color:gray;font-size : 12pt"> 10-2409476, KR, Jun. 2022. (Registration) </span>
-- 시공간 메모리 네트워크를 활용한 동영상 기반 사람 재식별 장치 및 방법 <br/>
-Apparatus and Method for Person Re-Identification based on Video with Spatial and Temporal Memory Networks <br/>
-<span style="color:gray;font-size : 12pt"> 10-2021-0179580, KR, Dec. 2021. (Application) </span> 
-- 인공 신경망을 위한 양자화기 및 양자화 방법<br/>
-Quantizer and Quantization Method for Artificial Neural Network<br/>
-<span style="color:gray;font-size : 12pt"> 10-2020-0135673, KR, Oct. 2020. (Application) </span>
+<span style="color:gray;font-size : 12pt"> 10-2409476, KR, Jun. 2022. </span>
 - 시멘틱 매칭 장치 및 방법<br/>
 Semantic Matching Apparatus and Method<br/>
-<span style="color:gray;font-size : 12pt"> 10-2166117, KR, Oct. 2020. (Registration) </span>
+<span style="color:gray;font-size : 12pt"> 10-2166117, KR, Oct. 2020. </span>
+
+### Application
+- 인공 신경망을 위한 양자화 장치 및 방법 <br/>
+Quantization Apparatus and Method for Artificial Neural Network <br/>
+<span style="color:gray;font-size : 12pt"> 10-2023-0116857, KR, Sep. 2023. </span> 
+- 양자화 학습 장치 및 방법 <br/>
+Quantization-Aware Training Apparatus and Method <br/>
+<span style="color:gray;font-size : 12pt"> 10-2023-0049837, KR, Apr. 2023. </span> 
+- 분해 지식 증류 기반 클래스 증분 시멘틱 분할 학습 장치 및 방법 <br/>
+Apparatus and Method for Class Incremental Semantic Segmentation Learning based on Decomposed Knowledge Distillation <br/>
+<span style="color:gray;font-size : 12pt"> 10-2022-0185609, KR, Dec. 2022. </span> 
+- 시공간 메모리 네트워크를 활용한 동영상 기반 사람 재식별 장치 및 방법 <br/>
+Apparatus and Method for Person Re-Identification based on Video with Spatial and Temporal Memory Networks <br/>
+<span style="color:gray;font-size : 12pt"> 10-2021-0179580, KR, Dec. 2021. </span> 
+- 인공 신경망을 위한 양자화기 및 양자화 방법<br/>
+Quantizer and Quantization Method for Artificial Neural Network<br/>
+<span style="color:gray;font-size : 12pt"> 10-2020-0135673, KR, Oct. 2020. </span>
 
 ## Experiences
 - Reviewer <br/>
