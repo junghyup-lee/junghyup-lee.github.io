@@ -103,6 +103,15 @@ author_profile: true
     [<a href="https://arxiv.org/abs/2108.06983">Paper</a>] 
     [<a href="https://cvlab.yonsei.ac.kr/projects/DAQ/">Project Page</a>]
 
+### Preprint
+- Transition Rate Scheduling for Quantization-Aware Training <br/>
+  <span style="color:gray;font-size : 12pt"> <b>Junghyup Lee</b>, Dohyung Kim, Jeimin Jeon, and Bumsub Ham. </span> <br/>
+  <span style="color:gray;font-size : 12pt"> <i> ArXiv </i> preprint. </span> <br/>
+  <span style="color:gray;font-size : 12pt"> 
+    [<a href="https://arxiv.org/abs/2404.19248">Paper</a>]
+    <!-- [<a href="https://cvlab.yonsei.ac.kr/projects/AZNAS/">Project Page</a>] -->
+  </span>
+
 
 ## Awards
 - Silver Prize, [28th Samsung Humantech Paper Award](https://humantech.samsung.com/), 2022.
@@ -129,6 +138,9 @@ author_profile: true
 
 ## Patents
 ### Registration
+- 시공간 메모리 네트워크를 활용한 동영상 기반 사람 재식별 장치 및 방법 <br/>
+Apparatus and Method for Person Re-Identification based on Video with Spatial and Temporal Memory Networks <br/>
+<span style="color:gray;font-size : 12pt"> 10-2678912, KR, Jun. 2024. </span> 
 - 사전 정보 학습 기반 영상 업스케일링 장치 및 방법<br/>
 Image Upscaling Apparatus and Method Based on Learning with Privileged Information<br/>
 <span style="color:gray;font-size : 12pt"> 10-2543690, KR, Jun. 2023. </span> 
@@ -140,6 +152,12 @@ Semantic Matching Apparatus and Method<br/>
 <span style="color:gray;font-size : 12pt"> 10-2166117, KR, Oct. 2020. </span>
 
 ### Application
+- 네트워크 구조 탐색을 위한 비학습 인공지능 신경망 평가 장치 및 방법	 <br/>
+Training-Free Evaluation Apparatus and Method of Artificial Neural Network for Network Architecture Search <br/>
+<span style="color:gray;font-size : 12pt"> 10-2024-0078638, KR, Jun. 2024. </span> 
+- 다중 믹스업 기반 딥러닝 네트워크의 신뢰도 교정 장치 및 방법 <br/>
+Apparatus and Method for Calibrating Confidence of Deep Learning Network Based on Multiple Mixup <br/>
+<span style="color:gray;font-size : 12pt"> 10-2024-0034262, KR, Mar. 2024. </span> 
 - 인공 신경망을 위한 양자화 장치 및 방법 <br/>
 Quantization Apparatus and Method for Artificial Neural Network <br/>
 <span style="color:gray;font-size : 12pt"> 10-2023-0116857, KR, Sep. 2023. </span> 
@@ -149,9 +167,6 @@ Quantization-Aware Training Apparatus and Method <br/>
 - 분해 지식 증류 기반 클래스 증분 시멘틱 분할 학습 장치 및 방법 <br/>
 Apparatus and Method for Class Incremental Semantic Segmentation Learning based on Decomposed Knowledge Distillation <br/>
 <span style="color:gray;font-size : 12pt"> 10-2022-0185609, KR, Dec. 2022. </span> 
-- 시공간 메모리 네트워크를 활용한 동영상 기반 사람 재식별 장치 및 방법 <br/>
-Apparatus and Method for Person Re-Identification based on Video with Spatial and Temporal Memory Networks <br/>
-<span style="color:gray;font-size : 12pt"> 10-2021-0179580, KR, Dec. 2021. </span> 
 - 인공 신경망을 위한 양자화기 및 양자화 방법<br/>
 Quantizer and Quantization Method for Artificial Neural Network<br/>
 <span style="color:gray;font-size : 12pt"> 10-2020-0135673, KR, Oct. 2020. </span>
