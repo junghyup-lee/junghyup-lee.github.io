@@ -4,12 +4,13 @@ layout: archive
 author_profile: true
 ---
 
-> I am a Ph.D. candidate in School of Electrical and Electronic Engineering at Yonsei University. 
+> I am currently working at Samsung Research, with a strong background in machine learning and computer vision.
 > 
-> My research interests span a wide spectrum of machine learning and computer vision, mainly focusing on efficient machine learning (network quantization, network architecture search, knowledge distillation), image matching (semantic correspondence), and image restoration (super-resolution).
+> My expertise mainly lies in efficient machine learning and image matching, with notable experiences in efficient machine learning (network quantization, network architecture search, knowledge distillation), image matching (semantic correspondence), and image restoration (super-resolution).
 
 ## Education
-- Joint course of M.S./Ph.D degrees in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (Mar. 2018 - Aug. 2024 (expected)).
+- Staff Engineer in Samsung Research (Samsung Electronics), Seoul, Korea (Sep. 2024 - Present).
+- Joint course of M.S./Ph.D degrees in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (Mar. 2018 - Aug. 2024).
 	* Supervised by Prof. Bumsub Ham in [Computer Vision Lab](https://cvlab.yonsei.ac.kr/).
 - B.S. in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (Mar. 2012 - Feb. 2018).
 
@@ -51,6 +52,12 @@ author_profile: true
   </span>
 
 ### Co-author
+- Toward INT4 Fixed-Point Training via Exploring Quantization Error for Gradients <br/>
+  <span style="color:gray;font-size : 12pt"> Dohyung Kim, <b>Junghyup Lee</b>, Jeimin Jeon, Jaehyeon Moon, and Bumsub Ham. </span> <br/>
+  <span style="color:gray;font-size : 12pt"> in <i>European Conference on Computer Vision (<a href="https://eccv.ecva.net/Conferences/2024">ECCV</a>)</i>, Oct. 2024. </span> <br/>
+  <span style="color:gray;font-size : 12pt"> 
+    [<a href="https://arxiv.org/abs/2407.12637">Paper</a>]
+  </span>
 - PLoPS: Localization-Aware Person Search with Prototypical Normalization <br/>
   <span style="color:gray;font-size : 12pt"> Sanghoon Lee, Youngmin Oh, Donghyeon Baek, <b>Junghyup Lee</b>, and Bumsub Ham. </span> <br/>
   <span style="color:gray;font-size : 12pt"> <i> Pattern Recognition (<a href="https://www.sciencedirect.com/journal/pattern-recognition">PR</a>)</i>, Apr. 2024. (Accepted) </span> <br/>
@@ -105,11 +112,10 @@ author_profile: true
 
 ### Preprint
 - Transition Rate Scheduling for Quantization-Aware Training <br/>
-  <span style="color:gray;font-size : 12pt"> <b>Junghyup Lee</b>, Dohyung Kim, Jeimin Jeon, and Bumsub Ham. </span> <br/>
+  <span style="color:gray;font-size : 12pt"> <b>Junghyup Lee</b>\*, Jeimin Jeon\*, Dohyung Kim, and Bumsub Ham (\*equal contribution). </span> <br/>
   <span style="color:gray;font-size : 12pt"> <i> ArXiv </i> preprint. </span> <br/>
   <span style="color:gray;font-size : 12pt"> 
     [<a href="https://arxiv.org/abs/2404.19248">Paper</a>]
-    <!-- [<a href="https://cvlab.yonsei.ac.kr/projects/AZNAS/">Project Page</a>] -->
   </span>
 
 
