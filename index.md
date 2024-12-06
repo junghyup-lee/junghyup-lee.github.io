@@ -4,12 +4,12 @@ layout: archive
 author_profile: true
 ---
 
-> I am currently working at Samsung Research, with a strong background in machine learning and computer vision.
+> I am currently working at Samsung Electronics (Samsung Research), with a strong background in machine learning and computer vision.
 > 
 > My expertise mainly lies in efficient machine learning and image matching, with notable experiences in efficient machine learning (network quantization, network architecture search, knowledge distillation), image matching (semantic correspondence), and image restoration (super-resolution).
 
 ## Education
-- Staff Engineer in Samsung Research (Samsung Electronics), Seoul, Korea (Sep. 2024 - Present).
+- Staff Engineer in Samsung Electronics (Samsung Research), Seoul, Korea (Sep. 2024 - Present).
 - Joint course of M.S./Ph.D degrees in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (Mar. 2018 - Aug. 2024).
 	* Supervised by Prof. Bumsub Ham in [Computer Vision Lab](https://cvlab.yonsei.ac.kr/).
 - B.S. in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (Mar. 2012 - Feb. 2018).
