@@ -4,18 +4,37 @@ layout: archive
 author_profile: true
 ---
 
-> I am currently working at Samsung Electronics (Samsung Research), with a strong background in machine learning and computer vision.
-> 
-> My expertise mainly lies in efficient machine learning and image matching, with notable experiences in efficient machine learning (network quantization, network architecture search, knowledge distillation), image matching (semantic correspondence), and image restoration (super-resolution).
+I am currently working at Samsung Electronics (Samsung Research), with a strong background in machine learning and computer vision.
 
-## Education
-- Staff Engineer in Samsung Electronics (Samsung Research), Seoul, Korea (Sep. 2024 - Present).
-- Joint course of M.S./Ph.D degrees in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (Mar. 2018 - Aug. 2024).
-	* Supervised by Prof. Bumsub Ham in [Computer Vision Lab](https://cvlab.yonsei.ac.kr/).
-- B.S. in School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea (Mar. 2012 - Feb. 2018).
+My expertise and research interests span a broad range of topics, with particular experience in:
+
+- Vision-language models
+- Efficient machine learning
+  - Network quantization
+  - Neural architecture search
+  - Knowledge distillation
+- Image matching (semantic correspondence)
+- Image super-resolution
+
+## Education & Experience
+- **Staff Engineer**, Samsung Electronics (Samsung Research), Seoul, Korea  
+  *Sep. 2024 – Present*
+
+- **Ph.D. / M.S. Joint Program**, Electrical and Electronic Engineering, Yonsei University, Seoul, Korea  
+  *Mar. 2018 – Aug. 2024*  
+  Supervised by [Prof. Bumsub Ham](https://cvlab.yonsei.ac.kr/) at the Computer Vision Lab
+
+- **B.S.**, Electrical and Electronic Engineering, Yonsei University, Seoul, Korea  
+  *Mar. 2012 – Feb. 2018*
 
 ## Publications
 ### First author
+- Scheduling Weight Transitions for Quantization-Aware Training <br/>
+  <span style="color:gray;font-size : 12pt"> <b>Junghyup Lee</b>\*, Jeimin Jeon\*, Dohyung Kim, and Bumsub Ham (\*equal contribution). </span> <br/>
+  <span style="color:gray;font-size : 12pt"> in <i>International Conference on Computer Vision (<a href="https://iccv.thecvf.com/Conferences/2025">ICCV</a>)</i>, Oct. 2025. </span> <br/>
+  <span style="color:gray;font-size : 12pt"> 
+    [<a href="https://arxiv.org/abs/2404.19248">Paper</a>]
+  </span>
 - AZ-NAS: Assembling Zero-Cost Proxies for Network Architecture Search <br/>
   <span style="color:gray;font-size : 12pt"> <b>Junghyup Lee</b> and Bumsub Ham. </span> <br/>
   <span style="color:gray;font-size : 12pt"> in <i>IEEE Conference on Computer Vision and Pattern Recognition (<a href="https://cvpr.thecvf.com/Conferences/2024">CVPR</a>)</i>, Jun. 2024. </span> <br/>
@@ -33,25 +52,37 @@ author_profile: true
 - Network Quantization with Element-wise Gradient Scaling<br/>
   <span style="color:gray;font-size : 12pt"> <b>Junghyup Lee</b>, Dohyung Kim, and Bumsub Ham. </span> <br/>
   <span style="color:gray;font-size : 12pt"> in <i>IEEE Conference on Computer Vision and Pattern Recognition (<a href="http://cvpr2021.thecvf.com/">CVPR</a>)</i>, Jun. 2021. </span> <br/>
-  <span style="color:gray;font-size : 12pt"> 
-  	[<a href="https://arxiv.org/abs/2104.00903">Paper</a>] 
-  	[<a href="https://cvlab.yonsei.ac.kr/projects/EWGS/">Project Page</a>]
+  <span style="color:gray;font-size : 12pt">
+    [<a href="https://arxiv.org/abs/2104.00903">Paper</a>]
+    [<a href="https://cvlab.yonsei.ac.kr/projects/EWGS/">Project Page</a>]
 - Learning with Privileged Information for Efficient Image Super-Resolution<br/>
   <span style="color:gray;font-size : 12pt"> Wonkyung Lee\*, <b>Junghyup Lee</b>\*, Dohyung Kim\*, and Bumsub Ham (\*equal contribution). </span> <br/>
   <span style="color:gray;font-size : 12pt"> in <i>European Conference on Computer Vision (<a href="https://eccv2020.eu/">ECCV</a>)</i>, Aug. 2020. </span> <br/>
   <span style="color:gray;font-size : 12pt"> 
-  	[<a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690460.pdf">Paper</a>] 
-  	[<a href="https://cvlab.yonsei.ac.kr/projects/PISR/">Project Page</a>]
+    [<a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690460.pdf">Paper</a>] 
+    [<a href="https://cvlab.yonsei.ac.kr/projects/PISR/">Project Page</a>]
   </span>
 - SFNet: Learning Object-aware Semantic Correspondence<br/>
   <span style="color:gray;font-size : 12pt"> <b>Junghyup Lee</b>\*, Dohyung Kim\*, and Bumsub Ham (\*equal contribution). </span> <br/>
   <span style="color:gray;font-size : 12pt"> in <i>IEEE Conference on Computer Vision and Pattern Recognition (<a href="https://cvpr2019.thecvf.com/">CVPR</a>)</i> (<b>Oral Presentation</b>), Jun. 2019. </span> <br/>
   <span style="color:gray;font-size : 12pt"> 
-  	[<a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_SFNet_Learning_Object-Aware_Semantic_Correspondence_CVPR_2019_paper.pdf">Paper</a>] 
-  	[<a href="https://cvlab.yonsei.ac.kr/projects/SFNet/">Project Page</a>]
+    [<a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_SFNet_Learning_Object-Aware_Semantic_Correspondence_CVPR_2019_paper.pdf">Paper</a>] 
+    [<a href="https://cvlab.yonsei.ac.kr/projects/SFNet/">Project Page</a>]
   </span>
 
 ### Co-author
+- 3DPillars: Pillar-Based Two-Stage 3D Object Detection <br/>
+  <span style="color:gray;font-size : 12pt"> Jongyoun Noh, <b>Junghyup Lee</b>, Hyekang Park, and Bumsub Ham. </span> <br/>
+  <span style="color:gray;font-size : 12pt"> <i> Expert Systems with Applications (<a href="https://www.sciencedirect.com/journal/expert-systems-with-applications">ESWA</a>)</i>, vol. 289, no. 15, Sep. 2025. </span> <br/>
+  <span style="color:gray;font-size : 12pt"> 
+    [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425019682">Paper</a>]
+  </span>
+- Subnet-Aware Dynamic Supernet Training for Neural Architecture Search <br/>
+  <span style="color:gray;font-size : 12pt"> Jeimin Jeon, Youngmin Oh, <b>Junghyup Lee</b>, Donghyeon Baek, Dohyung Kim, Chanho Eom, and Bumsub Ham. </span> <br/>
+  <span style="color:gray;font-size : 12pt"> in <i>IEEE Conference on Computer Vision and Pattern Recognition (<a href="https://cvpr.thecvf.com/Conferences/2025">CVPR</a>)</i>, Jun. 2025. </span> <br/>
+  <span style="color:gray;font-size : 12pt"> 
+    [<a href="https://arxiv.org/abs/2503.10740">Paper</a>]
+  </span>
 - Toward INT4 Fixed-Point Training via Exploring Quantization Error for Gradients <br/>
   <span style="color:gray;font-size : 12pt"> Dohyung Kim, <b>Junghyup Lee</b>, Jeimin Jeon, Jaehyeon Moon, and Bumsub Ham. </span> <br/>
   <span style="color:gray;font-size : 12pt"> in <i>European Conference on Computer Vision (<a href="https://eccv.ecva.net/Conferences/2024">ECCV</a>)</i>, Oct. 2024. </span> <br/>
@@ -60,7 +91,7 @@ author_profile: true
   </span>
 - PLoPS: Localization-Aware Person Search with Prototypical Normalization <br/>
   <span style="color:gray;font-size : 12pt"> Sanghoon Lee, Youngmin Oh, Donghyeon Baek, <b>Junghyup Lee</b>, and Bumsub Ham. </span> <br/>
-  <span style="color:gray;font-size : 12pt"> <i> Pattern Recognition (<a href="https://www.sciencedirect.com/journal/pattern-recognition">PR</a>)</i>, Apr. 2024. (Accepted) </span> <br/>
+  <span style="color:gray;font-size : 12pt"> <i> Pattern Recognition (<a href="https://www.sciencedirect.com/journal/pattern-recognition">PR</a>)</i>, vol. 153, Sep. 2024. </span> <br/>
   <span style="color:gray;font-size : 12pt"> 
     [<a href="https://www.sciencedirect.com/science/article/pii/S0031320324002309">Paper</a>]
   </span>
@@ -110,20 +141,29 @@ author_profile: true
     [<a href="https://arxiv.org/abs/2108.06983">Paper</a>] 
     [<a href="https://cvlab.yonsei.ac.kr/projects/DAQ/">Project Page</a>]
 
-### Preprint
-- Transition Rate Scheduling for Quantization-Aware Training <br/>
-  <span style="color:gray;font-size : 12pt"> <b>Junghyup Lee</b>\*, Jeimin Jeon\*, Dohyung Kim, and Bumsub Ham (\*equal contribution). </span> <br/>
-  <span style="color:gray;font-size : 12pt"> <i> ArXiv </i> preprint. </span> <br/>
-  <span style="color:gray;font-size : 12pt"> 
-    [<a href="https://arxiv.org/abs/2404.19248">Paper</a>]
-  </span>
-
-
 ## Awards
 - Silver Prize, [28th Samsung Humantech Paper Award](https://humantech.samsung.com/), 2022.
 - Gold Prize, [27th Samsung Humantech Paper Award](https://humantech.samsung.com/), 2021.
 - Excellence Award, Graduate Student Paper Contest in Yonsei University, 2020.
 - Silver Prize, [25th Samsung Humantech Paper Award](https://humantech.samsung.com/), 2019.
+
+## Academic Service & Teaching
+- Reviewer <br/>
+<span style="color:gray"> IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020, 2021, 2022, 2023, 2024, 2025. </span><br/>
+<span style="color:gray"> Neural Information Processing Systems (NeurIPS), 2020, 2021, 2022. </span><br/>
+<span style="color:gray"> International Conference on Computer Vision (ICCV), 2019, 2021, 2025. </span><br/>
+<span style="color:gray"> European Conference on Computer Vision (ECCV), 2020. </span><br/>
+<span style="color:gray"> AAAI Conference on Artificial Intelligence (AAAI), 2023. </span><br/>
+<span style="color:gray"> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). </span><br/>
+
+- Teaching Assistant in School of Electrical and Electronic Engineering, Yonsei University <br/>
+<span style="color:gray"> Digital Image Processing (EEE5320), 2021-01. </span><br/>
+<span style="color:gray"> Random Process (EEE5110), 2020-01. </span><br/>
+<span style="color:gray"> Signal Processing Lab. (EEE4423), 2020-01. </span><br/>
+<span style="color:gray"> Smart Technology AIR (ENG2116), 2019-01. </span><br/>
+<span style="color:gray"> Signal Processing Lab. (EEE4423), 2019-01. </span><br/>
+<span style="color:gray"> Electrical and Electronic Engineering Experiments: Applications (EEE3313), 2018-02. </span><br/>
+<span style="color:gray"> Data Structure (EEE2020), 2018-01. </span><br/>
 
 ## Scholarship & Funding
 - Global Ph.D Fellowship from National Research Foundation of Korea (NRF), 2019-2023.
@@ -135,14 +175,15 @@ author_profile: true
 - Poster Presentation (Network Quantization with Element-wise Gradient Scaling) <br/>
 <span style="color:gray;font-size : 12pt"> *Naver AI Author Meetup - Computer Vision*, Sep. 2021. </span> <br/>
 <span style="color:gray;font-size : 12pt"> *Korean Conference on Computer Vision (<a href="http://kccv2021.kcvs.kr/">KCCV</a>)*, Aug. 2021. </span>
-- Poster Presentation (시멘틱 정합을 이용한 비디오 포즈 전파)<br/>
+- Poster Presentation (Video Pose Propagation Using Seamntic Correspondence)<br/>
 <span style="color:gray;font-size : 12pt"> *32nd Workshop on Image Processing and Image Understanding (<a href="http://ipiu.or.kr/2020/">IPIU</a>)*, Jan. 2020. </span>
 - Poster Presentation (SFNet: Learning Object-aware Semantic Correspondence) <br/>
 <span style="color:gray;font-size : 12pt"> *Samsung AI Forum (<a href="https://research.samsung.com/2019saif">SAIF</a>)*, Nov. 2019. </span> <br/>
 <span style="color:gray;font-size : 12pt"> *Workshop on Frontiers of Electrical Engineering (FREE) in Yonsei University*, Oct. 2019. </span> <br/>
 <span style="color:gray;font-size : 12pt"> *Korean Conference on Computer Vision (<a href="https://kcvs.kr/front/conference/2019/">KCCV</a>)*, Jul. 2019. </span>
 
-## Patents
+
+<!-- ## Patents
 ### Registration
 - 시공간 메모리 네트워크를 활용한 동영상 기반 사람 재식별 장치 및 방법 <br/>
 Apparatus and Method for Person Re-Identification based on Video with Spatial and Temporal Memory Networks <br/>
@@ -175,23 +216,5 @@ Apparatus and Method for Class Incremental Semantic Segmentation Learning based 
 <span style="color:gray;font-size : 12pt"> 10-2022-0185609, KR, Dec. 2022. </span> 
 - 인공 신경망을 위한 양자화기 및 양자화 방법<br/>
 Quantizer and Quantization Method for Artificial Neural Network<br/>
-<span style="color:gray;font-size : 12pt"> 10-2020-0135673, KR, Oct. 2020. </span>
-
-## Experiences
-- Reviewer <br/>
-<span style="color:gray"> IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020, 2021, 2022, 2023, 2024. </span><br/>
-<span style="color:gray"> Neural Information Processing Systems (NeurIPS), 2020, 2021, 2022. </span><br/>
-<span style="color:gray"> International Conference on Computer Vision (ICCV), 2019, 2021. </span><br/>
-<span style="color:gray"> European Conference on Computer Vision (ECCV), 2020. </span><br/>
-<span style="color:gray"> AAAI Conference on Artificial Intelligence (AAAI), 2023. </span><br/>
-<span style="color:gray"> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). </span><br/>
-
-- Teaching Assistant in School of Electrical and Electronic Engineering, Yonsei University <br/>
-<span style="color:gray"> Digital Image Processing (EEE5320), 2021-01. </span><br/>
-<span style="color:gray"> Random Process (EEE5110), 2020-01. </span><br/>
-<span style="color:gray"> Signal Processing Lab. (EEE4423), 2020-01. </span><br/>
-<span style="color:gray"> Smart Technology AIR (ENG2116), 2019-01. </span><br/>
-<span style="color:gray"> Signal Processing Lab. (EEE4423), 2019-01. </span><br/>
-<span style="color:gray"> Electrical and Electronic Engineering Experiments: Applications (EEE3313), 2018-02. </span><br/>
-<span style="color:gray"> Data Structure (EEE2020), 2018-01. </span><br/>
+<span style="color:gray;font-size : 12pt"> 10-2020-0135673, KR, Oct. 2020. </span> -->
 
